@@ -1,0 +1,13 @@
+main{
+    width: 100%;
+   
+}
+main div {
+    width: 60vw;
+    padding: 4rem;
+}
+
+main div p {
+    text-indent: 1.5rem;
+    text-align: justify;
+}

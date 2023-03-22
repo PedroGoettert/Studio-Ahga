@@ -12,7 +12,7 @@ export function Contacts() {
                     <input
                         type="hidden"
                         name="_next"
-                        value="http://localhost:5173/answer"
+                        value="https://studio-ahga.vercel.app/answer"
                     />
 
                     <input
